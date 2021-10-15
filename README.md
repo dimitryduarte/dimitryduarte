@@ -6,7 +6,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=dimitryduarte&theme=gruvbox" />
 
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dimitryduarte&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=dimitryduarte&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimitryduarte&theme=tokyonight) |
 | --- | --- |
