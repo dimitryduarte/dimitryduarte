@@ -4,6 +4,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitryduarte&layout=compact&theme=dracula)
 
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=dimitryduarte&theme=gruvbox" />
+
 
 <!--
 **dimitryduarte/dimitryduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
